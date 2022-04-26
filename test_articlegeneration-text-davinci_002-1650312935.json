@@ -1,0 +1,15 @@
+{
+    "id": "cmpl-4yS4VLSa7y8qWDgYrlC9R2eMVfTeu",
+    "object": "text_completion",
+    "created": 1650312935,
+    "model": "text-davinci:002",
+    "choices": [
+        {
+            "text": "\n\nThree companies - AbrahamBravo Ltd, CED Co. and Francis Gingham - are being investigated by HMRC and HM Treasury over allegations of fraud.\n\nIt is alleged that the companies used neutral parties - Ian Janitor - to commit fraud, by using them to create false invoices and other documents.\n\nHMRC and HM Treasury are investigating the allegations and have asked for any information that may help them in their enquiries.\n\nAnyone with information is urged to come forward and help with the investigation.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "origin": "Create a news article describing fraud commited by AbrahamBravo Ltd, CED Co. and Francis Gingham, involving neutral parties of Ian Janitor, being investigated by HMRC and HM Treasury:"
+}

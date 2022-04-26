@@ -1,0 +1,15 @@
+{
+    "id": "cmpl-4ySYabF0VQDLFyXyTGA9jTkz5xFmV",
+    "object": "text_completion",
+    "created": 1650314800,
+    "model": "text-davinci:002",
+    "choices": [
+        {
+            "text": "\n\n\n\nHMRC and HM Treasury are investigating money laundering by AbrahamBravo Ltd, CED Co., Francis Gingham and International Baddies Network. The money laundering is believed to involve the tobacco trade, the darkweb, tech start ups, and Costa Rica.\n\nInvestigators believe that the money laundering may have been facilitated by shipping containers full of medical equipment and other disguise, which were then used to smuggle the money into Costa Rica. Once in Costa Rica, the money was allegedly used to buy property and invest in a tech start up.\n\nThe investigation is ongoing, but authorities believe that the Italian mafia may be involved.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "origin": "Create a news article describing money laundering commited by AbrahamBravo Ltd, CED Co., Francis Gingham and International Baddies Network, being investigated by HMRC and HM Treasury. The money laundering must involve the words KPMG, tobacco trade, darkweb, tech start up, Costa Rica, shipping containers, medical equipment, disguise, hitman and Italian mafia:"
+}

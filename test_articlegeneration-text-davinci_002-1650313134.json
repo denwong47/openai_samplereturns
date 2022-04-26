@@ -1,0 +1,15 @@
+{
+    "id": "cmpl-4yS7iuVCDWeLLT4Yp6beS7Dxn66rP",
+    "object": "text_completion",
+    "created": 1650313134,
+    "model": "text-davinci:002",
+    "choices": [
+        {
+            "text": "\n\nTobacco trade, darkweb, tech start up and Costa Rica, being investigated by HMRC and HM Treasury:\n\nThree companies have been accused of fraud involving the use of KPMG, tobacco trade, darkweb, tech startup and Costa Rica. The companies, AbrahamBravo Ltd, CED Co. and Francis Gingham, are being investigated by HMRC and HM Treasury.\n\nAccording to the allegations, the companies used KPMG to help them evade taxes on tobacco trade and darkweb activity. They also used a tech startup in Costa Rica to launder money.\n\n HMRC and HM Treasury are investigating the allegations and are expected to announce their findings soon.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "origin": "Create a news article describing fraud commited by AbrahamBravo Ltd, CED Co. and Francis Gingham, involving the use of KPMG, tobacco trade, darkweb, tech start up and Costa Rica, being investigated by HMRC and HM Treasury:"
+}

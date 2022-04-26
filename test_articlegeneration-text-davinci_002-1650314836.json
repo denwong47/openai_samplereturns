@@ -1,0 +1,15 @@
+{
+    "id": "cmpl-4ySZA0tfVXzO8TfuaEN7Vgg8C56Vd",
+    "object": "text_completion",
+    "created": 1650314836,
+    "model": "text-davinci:002",
+    "choices": [
+        {
+            "text": "\n\n\nIn August 2018, the UK's National Crime Agency (NCA) announced that it had begun an investigation into money laundering by three companies: AbrahamBravo Ltd, CED Co. and Francis Gingham. The NCA is working with HM Revenue and Customs (HMRC) and HM Treasury on the investigation.\n\nThe three companies are accused of using the proceeds of the illegal tobacco trade to launder money through the purchase of tech start-ups in Costa Rica. The money was then allegedly used to buy luxury properties and vehicles in the UK.\n\nHMRC believes that the three companies funneled money through a network of KPMG-registered shell companies to avoid detection. The NCA is also investigating whether the companies used the darkweb to facilitate their activities.\n\nIf the accusations are proven true, the three companies could face prosecution under the UK's Money Laundering Regulations.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "origin": "Create a news article describing money laundering commited by AbrahamBravo Ltd, CED Co. and Francis Gingham, being investigated by HMRC and HM Treasury. The money laundering must involve the words KPMG, tobacco trade, darkweb, tech start up and Costa Rica:"
+}

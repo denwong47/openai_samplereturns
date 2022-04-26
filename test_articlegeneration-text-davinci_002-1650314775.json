@@ -1,0 +1,15 @@
+{
+    "id": "cmpl-4ySYBh1FUHZFc5FhxUNBInDeumVLu",
+    "object": "text_completion",
+    "created": 1650314775,
+    "model": "text-davinci:002",
+    "choices": [
+        {
+            "text": "\n\nAbrahamBravo Ltd, CED Co., Francis Gingham and International Baddies Network are under investigation by HMRC and HM Treasury for money laundering.\n\nThe money laundering is believed to have been done through the tobacco trade, darkweb, tech start up, Costa Rica, shipping containers, medical equipment, disguise, hitman and Italian mafia.\n\nKPMG is also said to be investigating the companies.\n\nThe money laundering is said to have been for the purpose of financing the operations of the companies.\n\nThe companies are said to be under investigation for their involvement in money laundering and other illegal activities.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "origin": "Create a news article describing money laundering commited by AbrahamBravo Ltd, CED Co., Francis Gingham and International Baddies Network, being investigated by HMRC and HM Treasury. The money laundering must involve the words KPMG, tobacco trade, darkweb, tech start up, Costa Rica, shipping containers, medical equipment, disguise, hitman and Italian mafia:"
+}
